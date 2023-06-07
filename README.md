@@ -1,7 +1,7 @@
 # ДЕТЕКТИВ-ИГРА «НАЙДИ ПРЕСТУПНИКА НА ВЕЧЕРИНКЕ»
 
 
-My own project, creating detective play
+Учебный мини-проект "Разработка своей SQL игры на основе детектива" по дисципплине "Базы данных"
 
 
 ![image](https://github.com/Irina-Smol/SQL_Play_Detective/assets/112115002/238c2914-a58a-408d-93ce-c2d0fd675664)
